@@ -1,8 +1,6 @@
-# Customer_behaviour_analysis
-data analytics project showcasing customer behaviour analysis using python, sql and power bi
-Here’s a **clean, professional, recruiter-friendly README.md** you can directly use for your project:
-
-# Customer Shopping Behavior Analysis:-
+# Customer_behaviour_analysis:-
+data analytics project showcasing customer behaviour analysis using python, sql and power bi.
+Customer Shopping Behavior Analysis:-
 Overview:-
 This project focuses on analyzing customer shopping behavior using a complete data analytics workflow. It covers data loading, cleaning, exploratory data analysis (EDA), SQL-based querying, and interactive dashboard creation to generate meaningful business insights.
 1)Dataset:-
